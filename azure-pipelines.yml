@@ -16,6 +16,8 @@ steps:
     chmod +x $(System.ArtifactsDirectory)/sitebuilder-util
     $(System.ArtifactsDirectory)/sitebuilder-util edit --page=/fac/sci/dcs/teaching/material/cs407/ --file=material.html
     $(System.ArtifactsDirectory)/sitebuilder-util edit --page=/fac/sci/dcs/teaching/material/cs407/components/specification/ --file=specification.html
+    $(System.ArtifactsDirectory)/sitebuilder-util edit --page=/fac/sci/dcs/teaching/material/cs407/components/progress/ --file=progress.html
+    $(System.ArtifactsDirectory)/sitebuilder-util edit --page=/fac/sci/dcs/teaching/material/cs407/components/demo/ --file=final.html
   displayName: Update Sitebuilder page
   env:
     SB_USER: $(SB_USER)
