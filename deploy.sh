@@ -1,6 +1,5 @@
 set -e
 
-SB_UTIL=$(System.ArtifactsDirectory)/sitebuilder-util
 SB_ROOT=/fac/sci/dcs/teaching/material/cs407
 
 chmod +x $SB_UTIL
