@@ -9,6 +9,7 @@ $SB_UTIL edit --page=$SB_ROOT/components/specification/ --file=specification.htm
 $SB_UTIL edit --page=$SB_ROOT/components/progress/ --file=progress.html
 $SB_UTIL edit --page=$SB_ROOT/components/demo/ --file=final.html
 $SB_UTIL edit --page=$SB_ROOT/components/individual/ --file=individual-report.html
+$SB_UTIL edit --page=$SB_ROOT/components/report/ --file=group-report.html
 $SB_UTIL edit --page=$SB_ROOT/suggestions/ --file=suggestions.html
 $SB_UTIL edit --page=$SB_ROOT/assessment/ --file=assessment.html
 $SB_UTIL edit --page=$SB_ROOT/past-projects/ --file=past-projects.html
