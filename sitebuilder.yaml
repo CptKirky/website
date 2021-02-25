@@ -1,0 +1,50 @@
+- page: /fac/sci/dcs/teaching/material/cs407
+  content: material.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/components/specification/
+  content: specification.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/components/progress/
+  content: progress.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/components/demo/
+  content: final.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/components/individual/
+  content: individual-report.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/components/report/
+  content: group-report.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/suggestions
+  content: suggestions.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/past-projects/
+  content: past-projects.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/finding-a-project/
+  content: finding-a-project.html
+  properties:
+    spanRHS: true
+  files: []
+- page: /fac/sci/dcs/teaching/material/cs407/group-membership/
+  content: group-membership.html
+  properties:
+    spanRHS: true
+  files: []
