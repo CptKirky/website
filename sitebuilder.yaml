@@ -48,3 +48,8 @@
   properties:
     spanRHS: true
   files: []
+- page: /fac/sci/dcs/teaching/material/cs407/next-year/
+  content: next-year.html
+  properties:
+    spanRHS: true
+  files: []
